@@ -1,0 +1,4 @@
+La base de donnée doit s'appeler : gsbextranet
+L'utilisateur doit s'appeler : gsb
+Le mot de passe doit être : Wrh0mMTosQXz4nUV
+Il doit avoir tout les droits sur le BDD
